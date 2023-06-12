@@ -1,0 +1,7 @@
+node_modules
+yarn.lock 
+./Commands/Utility/setup
+data/server/fullchain.pem
+data/server/privkey.pem
+.env
+.vscode
